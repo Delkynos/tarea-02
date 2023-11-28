@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-color: aliceblue;
+}
+.square {
+  height: 100px;
+  width: 100px;
+}
+.green {
+  background-color: #92d482;
+}
+.red {
+  background-color: #e24141;
+  margin-top: 200px;
+}
+.blue {
+  background-color: #649ff1;
+  margin-top: 100px;
+}
+.yellow {
+  margin-top: 300px;
+  background-color: #c1b017;
+}
